@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leeturner.intellijfactor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leeturner.intellijfactor.MyBundle
 
 class MyApplicationService {
 
