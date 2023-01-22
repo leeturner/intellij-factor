@@ -1,6 +1,6 @@
-package com.github.leeturner.intellijfactor.services
+package com.leeturner.intellijfactor.services
 
-import com.github.leeturner.intellijfactor.MyBundle
+import com.leeturner.intellijfactor.MyBundle
 
 class MyApplicationService {
 

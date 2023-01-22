@@ -1,7 +1,7 @@
-package com.github.leeturner.intellijfactor.services
+package com.leeturner.intellijfactor.services
 
 import com.intellij.openapi.project.Project
-import com.github.leeturner.intellijfactor.MyBundle
+import com.leeturner.intellijfactor.MyBundle
 
 class MyProjectService(project: Project) {
 

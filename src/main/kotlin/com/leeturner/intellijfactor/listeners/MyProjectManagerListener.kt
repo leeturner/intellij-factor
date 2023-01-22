@@ -1,9 +1,9 @@
-package com.github.leeturner.intellijfactor.listeners
+package com.leeturner.intellijfactor.listeners
 
+import com.leeturner.intellijfactor.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.leeturner.intellijfactor.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

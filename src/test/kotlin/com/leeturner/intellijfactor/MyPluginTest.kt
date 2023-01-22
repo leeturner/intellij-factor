@@ -1,4 +1,4 @@
-package com.github.leeturner.intellijfactor
+package com.leeturner.intellijfactor
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.openapi.components.service
@@ -6,9 +6,9 @@ import com.intellij.psi.xml.XmlFile
 import com.intellij.testFramework.TestDataPath
 import com.intellij.testFramework.fixtures.BasePlatformTestCase
 import com.intellij.util.PsiErrorElementUtil
-import com.github.leeturner.intellijfactor.services.MyProjectService
+import com.leeturner.intellijfactor.services.MyProjectService
 
-@TestDataPath("\$CONTENT_ROOT/src/test/testData")
+@TestDataPath("\$CONTENT_ROOT/src/test/testData/rename")
 class MyPluginTest : BasePlatformTestCase() {
 
     fun testXMLFile() {

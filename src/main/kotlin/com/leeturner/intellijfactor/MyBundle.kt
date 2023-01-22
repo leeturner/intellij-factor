@@ -1,8 +1,8 @@
-package com.github.leeturner.intellijfactor
+package com.leeturner.intellijfactor
 
 import com.intellij.DynamicBundle
-import org.jetbrains.annotations.NonNls
 import org.jetbrains.annotations.PropertyKey
+import org.jetbrains.annotations.NonNls
 
 @NonNls
 private const val BUNDLE = "messages.MyBundle"
