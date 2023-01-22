@@ -1,0 +1,14 @@
+{
+  parserClass="com.leeturner.intellijfactor.language.parser.FactorParser"
+
+  extends="com.intellij.extapi.psi.ASTWrapperPsiElement"
+
+  psiClassPrefix="Factor"
+  psiImplClassSuffix="Impl"
+  psiPackage="com.leeturner.intellijfactor.language.psi"
+  psiImplPackage="com.leeturner.intellijfactor.language.psi.impl"
+
+  elementTypeHolderClass="com.leeturner.intellijfactor.language.psi.FactorTypes"
+  elementTypeClass="com.leeturner.intellijfactor.language.psi.FactorElementType"
+  tokenTypeClass="com.leeturner.intellijfactor.language.psi.FactorTokenType"
+}
