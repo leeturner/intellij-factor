@@ -17,14 +17,14 @@
                 language="Factor"
                 extensions="factor"/>
     </extensions>
-    
-<!--    <extensions defaultExtensionNs="com.intellij">-->
-<!--        <applicationService serviceImplementation="com.leeturner.intellijfactor.services.MyApplicationService"/>-->
-<!--        <projectService serviceImplementation="com.leeturner.intellijfactor.services.MyProjectService"/>-->
-<!--    </extensions>-->
-<!---->
-<!--    <applicationListeners>-->
-<!--        <listener class="com.leeturner.intellijfactor.listeners.MyProjectManagerListener"-->
-<!--                  topic="com.intellij.openapi.project.ProjectManagerListener"/>-->
-<!--    </applicationListeners>-->
+
+    <!--    <extensions defaultExtensionNs="com.intellij">-->
+    <!--        <applicationService serviceImplementation="com.leeturner.intellijfactor.services.MyApplicationService"/>-->
+    <!--        <projectService serviceImplementation="com.leeturner.intellijfactor.services.MyProjectService"/>-->
+    <!--    </extensions>-->
+    <!---->
+    <!--    <applicationListeners>-->
+    <!--        <listener class="com.leeturner.intellijfactor.listeners.MyProjectManagerListener"-->
+    <!--                  topic="com.intellij.openapi.project.ProjectManagerListener"/>-->
+    <!--    </applicationListeners>-->
 </idea-plugin>
